@@ -60,10 +60,10 @@ After the loop, use alert to print collect
 */
 
 
-//this collects the heading - 12th child of box
+//this collects the heading - 13th child of box
 var when_to_launch = document.querySelectorAll(".bg-main-content .box")[12].children;
 
-//this collects the paragraph under the 12th heading
+//this collects the paragraph under the 13th heading
 var collect = when_to_launch[0].innerHTML + "\n------------------\n\n";
 
 
