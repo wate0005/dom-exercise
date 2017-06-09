@@ -113,7 +113,8 @@ header {
 }
 
 .bg-header {  
-    background-image: url(../img/bg-masthead.png);
+    /*background-image: url(../img/bg-masthead.png);*/
+    background-image: url(bg-masthead.png);
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
